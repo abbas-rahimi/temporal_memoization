@@ -1,0 +1,7 @@
+temporal_memoization
+====================
+
+Temporal Memoization for GPGPUs
+
+- To compile multi2sim with the temporal memoization module: "multi2sim-4.2/README"
+- Applications of AMD SDK v2.5 can be run by "run.pl" inside each folder 
